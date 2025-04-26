@@ -10,4 +10,3 @@ export function problem (lines) {
 	console.log(`A=${A.toFixed(4)}`)
 
 }
-<
